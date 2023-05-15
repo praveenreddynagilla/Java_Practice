@@ -10,6 +10,7 @@ public class Main {
          // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int[] arr1:arr) {
             for (int i : arr1) {
+                System.out.println("Hello Developer");
 
 
                 // Press Shift+F9 to start debugging your code. We have set one breakpoint
